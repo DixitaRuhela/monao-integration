@@ -1,5 +1,10 @@
-code => {
-    const excludedCharacters = ["\t"];
-    const filteredCode = code.split("").filter(char => !excludedCharacters.includes(char)).join("");
-    return filteredCode;
-  }
+
+public class Main {
+    
+	public static void main(String[] args) {
+        System.out.println("Hello, World!");
+	
+
+    }
+}
+
